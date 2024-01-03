@@ -4,3 +4,7 @@ div{
     margin:2px;
     border:2px solid black
 }
+h3{
+    background-color: white;
+    display:block;
+}
